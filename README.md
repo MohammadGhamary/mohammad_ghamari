@@ -15,7 +15,7 @@
   <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white">
   <img src="https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white">
   <img src="https://custom-icon-badges.demolab.com/badge/ETL-9370DB?logo=etl-logo&logoColor=fff">
@@ -27,6 +27,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white">
   <img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB">
 </p>
 
 ## Current Projects
